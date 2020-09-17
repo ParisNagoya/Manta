@@ -17,6 +17,8 @@
 ### そこでこの仕分け機能を使用する事で事前に登録したショートカットキーで複数のフォルダに画像を振り分けられます。
 ### なお、カット&ペーストに切り替えるなどの機能も付いています。
 
+## その他細かい操作方法やブックマークなどの機能の詳細はソフト内のヘルプをご覧ください。
+
 # ソフトの利用方法
 ## ImageViewer\source\ImageViewer\bin\Release　以下のファイルを任意の場所に保存する事でソフトが利用できます。
 ## .NET Framework 4.7.2が必要です。お持ちでない場合は https://support.microsoft.com/ja-jp/help/4054530/microsoft-net-framework-4-7-2-offline-installer-for-windows からインストーラをダウンロードしてください。
