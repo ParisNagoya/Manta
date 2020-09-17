@@ -1,0 +1,5 @@
+File.Copy
+_openedFilename で上書きなしの場合：すでに存在しています
+_openedFilename で上書きありの場合：他のプロセスが使ってる
+copy.png	で上書きなしの場合：可
+copy.png	で上書きありの場合：可（上書きもできる）
