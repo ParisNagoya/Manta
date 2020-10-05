@@ -927,7 +927,7 @@ namespace RenameAllocateViewer
             _openedFileName = dlg.FileName;
 
             // 画像ファイルを開く
-            OpenImageFile(_openedFileName);
+            OpenImageFIleFirst(_openedFileName);
         }
 
         private void フォルダ設定ToolStripMenuItem_Click(object sender, EventArgs e)
